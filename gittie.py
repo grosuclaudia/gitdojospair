@@ -19,3 +19,9 @@ A. It takes screenshots.
     """)
 
 joke()
+
+
+def shout():
+    text = input("Enter a text: ")
+    print(text.upper() + "!")
+shout()
