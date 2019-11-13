@@ -4,3 +4,12 @@ def introduce():
 
 
 introduce()
+
+# the joke function
+def joke():
+    print("""
+Q. How does a computer get drunk?
+A. It takes screenshots.
+    """)
+
+joke()
