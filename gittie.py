@@ -9,3 +9,13 @@ def add(a,b):
    return add(3,4)
 
 #hfhfghkgfsdymnkj
+
+
+# the joke function
+def joke():
+    print("""
+Q. How does a computer get drunk?
+A. It takes screenshots.
+    """)
+
+joke()
